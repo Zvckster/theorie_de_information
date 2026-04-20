@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Ensat.jpg" alt="ENSA TANGER" width="200"></a>
+<img src="https://www.ensamaroc.com/storage/images/schools/logos/ENSATANGER_logo20230124154134.png" alt="ENSA TANGER" width="200"></a>
   <br>
   <br>
  Travaux pratiques de la théorie de l'information
